@@ -34,7 +34,7 @@ for i in range(len(X)):
 unique_characters=[]
 for ch in set1:
   unique_characters.append(ch)
-unique_characters.sort()          #yeh h list of unique protiens
+unique_characters.sort()          #this is list of unique protiens
 
 listt = []
 for i in unique_characters:
